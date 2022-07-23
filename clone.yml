@@ -15,7 +15,7 @@
 
     - name: Cloning PG Blitz X
       git:
-        repo: "https://github.com/PGBlitz/PGBlitz.com"
+        repo: "https://github.com/mujambajecha/PGBlitz.com"
         dest: /pg/pgblitz
-        version: "v10"
+        version: "8.7.5"
         force: yes
