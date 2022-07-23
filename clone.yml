@@ -17,5 +17,5 @@
       git:
         repo: "https://github.com/mujambajecha/PGBlitz.com"
         dest: /pg/pgblitz
-        version: "8.7.5"
+        version: "8.5"
         force: yes
